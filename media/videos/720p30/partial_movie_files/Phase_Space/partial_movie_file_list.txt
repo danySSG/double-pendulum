@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Studies/НУГ/Программный комплекс/double-pendulum/media/videos/720p30/partial_movie_files/Phase_Space/274514146_3907991875_223132457.mp4'
+file 'file:D:/Studies/НУГ/Программный комплекс/double-pendulum/media/videos/720p30/partial_movie_files/Phase_Space/2789044632_3918978919_1336918785.mp4'
+file 'file:D:/Studies/НУГ/Программный комплекс/double-pendulum/media/videos/720p30/partial_movie_files/Phase_Space/2789044632_1798966549_2774885873.mp4'
+file 'file:D:/Studies/НУГ/Программный комплекс/double-pendulum/media/videos/720p30/partial_movie_files/Phase_Space/2789044632_653165941_25086437.mp4'
+file 'file:D:/Studies/НУГ/Программный комплекс/double-pendulum/media/videos/720p30/partial_movie_files/Phase_Space/2789044632_1203763000_3160839461.mp4'
